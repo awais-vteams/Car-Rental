@@ -6,6 +6,7 @@ Best Startup for Car Rent System. The main theme to focus on rent App to provide
 Backend Node/Mongo/Express
 
 Visit my blog: http://fineblogging.com
+To purchase email me asargodha@gmail.com
 
 
 ### Modules/Pages
